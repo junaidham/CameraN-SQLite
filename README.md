@@ -1,4 +1,4 @@
-Camera and SQlite
+Camera , Gallery and SQlite
 -----
 
 camera support G to O[oAndroid – 8.0 Oreo]
